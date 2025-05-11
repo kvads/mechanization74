@@ -5,7 +5,7 @@
             <p class="text-xl mb-8 opacity-90">Качественное и быстрое выравнивание стен с использованием современного оборудования. Гарантия качества и доступные цены.</p>
             <div class="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4">
                 <a href="#contacts" class="btn-primary py-4 px-8 rounded-full font-bold text-white text-center">Заказать расчет</a>
-                <a href="#advantages" class="bg-white py-4 px-8 rounded-full font-bold text-orange-500 text-center hover:bg-gray-100 transition">Узнать больше</a>
+                <a href="#advantages" class="bg-white py-4 px-8 rounded-full font-bold text-red-500 text-center hover:bg-gray-100 transition">Узнать больше</a>
             </div>
         </div>
     </div>

@@ -6,7 +6,7 @@
     <title>Профессиональная механизированная штукатурка | Качество и скорость</title>
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 </head>
-<body class="bg-gray-50">
+<body class="bg-white">
 @yield('content')
 </body>
 </html>

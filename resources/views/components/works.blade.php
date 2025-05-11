@@ -1,8 +1,8 @@
-<section id="works" class="py-20 bg-gray-50">
+<section id="works" class="py-20 bg-white">
     <div class="container mx-auto px-4">
         <div class="text-center mb-16">
-            <h2 class="text-3xl md:text-4xl font-bold text-gray-800 mb-4">Наши работы</h2>
-            <p class="text-xl text-gray-600 max-w-3xl mx-auto">Примеры выполненных объектов механизированной штукатурки</p>
+            <h2 class="text-3xl md:text-4xl font-bold text-black mb-4">Наши работы</h2>
+            <p class="text-xl text-black max-w-3xl mx-auto">Примеры выполненных объектов механизированной штукатурки</p>
         </div>
 
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
@@ -11,7 +11,7 @@
                 <div class="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent flex items-end p-6">
                     <div>
                         <h3 class="text-white text-xl font-bold mb-1">Квартира в новостройке</h3>
-                        <p class="text-orange-300">Москва, ЖК "Солнечный"</p>
+                        <p class="text-red-500">Москва, ЖК "Солнечный"</p>
                         <p class="text-white/90 mt-2">85 м² за 1 день</p>
                     </div>
                 </div>
@@ -22,7 +22,7 @@
                 <div class="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent flex items-end p-6">
                     <div>
                         <h3 class="text-white text-xl font-bold mb-1">Коттедж</h3>
-                        <p class="text-orange-300">Московская область, д. Заречье</p>
+                        <p class="text-red-500">Московская область, д. Заречье</p>
                         <p class="text-white/90 mt-2">320 м² за 3 дня</p>
                     </div>
                 </div>
@@ -33,7 +33,7 @@
                 <div class="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent flex items-end p-6">
                     <div>
                         <h3 class="text-white text-xl font-bold mb-1">Офисное помещение</h3>
-                        <p class="text-orange-300">Москва, БЦ "Северный"</p>
+                        <p class="text-red-500">Москва, БЦ "Северный"</p>
                         <p class="text-white/90 mt-2">150 м² за 1.5 дня</p>
                     </div>
                 </div>
